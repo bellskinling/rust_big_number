@@ -5,7 +5,7 @@ use std::fs::OpenOptions;
 use std::io::Read;
 
 fn main() {
-    let b = BigNumber::new("-1", 0);
-
-    println!("{}", b.to_string());
+    //let b = BigNumber::new("-1", 0);
+    
+    //println!("{}", b.to_string());
 }
